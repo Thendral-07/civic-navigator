@@ -20,6 +20,10 @@ Scheme details (amounts, deadlines, portals) change often, and many websites cop
 
 Zip the folder `skill/civic-navigator/` (or download the packaged `.skill` from Releases when available) and add it as a skill in Claude.
 
+## Other chatbots
+
+The skill follows the open SKILL.md format. For chatbots without skill support, use the single-file prompt in [`adapters/`](adapters/README.md).
+
 ## Example
 
 > "My brother finished Class 12 in a government school and has joined a regular college. Any scheme?"
