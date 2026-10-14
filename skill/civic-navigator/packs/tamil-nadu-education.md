@@ -1,0 +1,51 @@
+# Tamil Nadu - Education pack (starter, 2 schemes)
+- Place: India / Tamil Nadu
+- Topic: education (higher-education support for government-school graduates)
+- Pack last verified: 2026-10-14
+- Maintainer: (add GitHub handle)
+- Note: starter pack. Tier 1 here means an official Tamil Nadu government page or the central myScheme portal. Re-check the official pages before relying on any date or amount.
+
+## Pudhumai Penn Thittam (புதுமைப் பெண் திட்டம்) - Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme
+- Department: Social Welfare and Women Empowerment Department, Government of Tamil Nadu
+- Who it is for:
+  - Girl students who studied Classes VI to XII in Government schools in Tamil Nadu
+  - Resident of Tamil Nadu
+  - Pursuing an undergraduate degree, diploma, ITI or equivalent course
+  - Admitted to a recognised institution in Tamil Nadu
+- What it gives: Rs. 1,000 per month, credited directly to the student's bank account until completion of higher education (Tier 1: tils.tn.gov.in)
+- How to apply: apply through the official "Penkalvi" portal (Tier 1: myscheme.gov.in)
+- Documents to prepare: proof of schooling in a Tamil Nadu Government school (Transfer Certificate), college admission/bonafide proof, bank account that accepts direct transfers (Tier 2 list; confirm on the portal)
+- Helpline: 1800 425 2425 (Tier 2; confirm on the portal)
+- Facts NOT confirmed by an official source (reported by a secondary aggregator only):
+  - No family income limit
+  - 33% marks in the previous class
+  - Not available for correspondence/distance/open-university courses
+  - First UG/diploma/ITI only, not for postgraduate courses
+  - Application deadline 31 Oct 2026 (do NOT present as confirmed; deadlines change)
+  - Portal address penkalvi.tn.gov.in (confirm the address from an official page)
+- Sources:
+  - Tier 1: https://myscheme.gov.in/schemes/pudhumai-penn-scheme (checked 2026-10-14)
+  - Tier 1: https://tils.tn.gov.in/schemes (government institute page, checked 2026-10-14)
+  - Tier 2: https://www.indiascholarships.in/scholarships/pudhumai-penn-scheme-tamil-nadu/eligibility (checked 2026-10-14)
+- Last verified: 2026-10-14
+
+## Tamil Pudhalvan Thittam (தமிழ் புதல்வன் திட்டம்)
+- Department: Government of Tamil Nadu (the secondary source names the Social Welfare and Women Empowerment Department; confirm on an official page)
+- Who it is for:
+  - Male students who studied Classes VI to XII in Government schools in Tamil Nadu
+  - Admitted to a recognised institution in Tamil Nadu
+- What it gives: Rs. 1,000 per month reported by a secondary source (not stated on the Tier 1 page checked); confirm the amount on the official portal
+- How to apply: online through the Tamil Pudhalvan portal after joining the course (Tier 1: tils.tn.gov.in)
+- Documents to prepare (Tier 2 list; confirm on the portal): Transfer Certificate showing Classes VI-XII schooling, college bonafide certificate, marksheets, an active bank account linked for direct benefit transfer
+- Helpline: 1800 425 2425 (Tier 2; confirm on the portal)
+- Facts NOT confirmed by an official source (reported by a secondary aggregator only):
+  - Government-aided Tamil-medium schools also count
+  - No parental income limit
+  - 33% marks in the previous class
+  - Regular courses only (not distance, private or open-university)
+  - The college registers the student on the UMIS portal
+  - Application deadline 31 Oct 2026 (do NOT present as confirmed)
+- Sources:
+  - Tier 1: https://tils.tn.gov.in/schemes (government institute page, checked 2026-10-14)
+  - Tier 2: https://www.indiascholarships.in/scholarships/tamil-pudhalvan-scheme (checked 2026-10-14)
+- Last verified: 2026-10-14
